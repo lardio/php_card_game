@@ -1,0 +1,1345 @@
+####################### 
+Round numéro => 1.
+Sylvain : 9 VS Karolina : 5 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 2.
+Sylvain : 8 VS Karolina : 2 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 3.
+Sylvain : 4 VS Karolina : Roi 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 4.
+Sylvain : 10 VS Karolina : Valet 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 5.
+Sylvain : 3 VS Karolina : 10 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 6.
+Sylvain : Dame VS Karolina : 9 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 7.
+Sylvain : 3 VS Karolina : Roi 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 8.
+Sylvain : 10 VS Karolina : As 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 9.
+Sylvain : 10 VS Karolina : 8 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 10.
+Sylvain : Roi VS Karolina : As 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 11.
+Sylvain : 7 VS Karolina : 2 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 12.
+Sylvain : 2 VS Karolina : 6 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 13.
+Sylvain : 7 VS Karolina : 8 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 14.
+Sylvain : Valet VS Karolina : 9 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 15.
+Sylvain : 9 VS Karolina : Roi 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 16.
+Sylvain : Dame VS Karolina : 4 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 17.
+Sylvain : Dame VS Karolina : 6 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 18.
+Sylvain : 2 VS Karolina : 6 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 19.
+Sylvain : 7 VS Karolina : 5 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 20.
+Sylvain : Valet VS Karolina : As 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 21.
+Sylvain : Valet VS Karolina : 5 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 22.
+Sylvain : 4 VS Karolina : 7 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 23.
+Sylvain : 4 VS Karolina : 6 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 24.
+Sylvain : As VS Karolina : 3 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 25.
+Sylvain : 8 VS Karolina : 3 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 26.
+Sylvain : Dame VS Karolina : 5 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 27.
+Sylvain : 9 VS Karolina : Roi 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 28.
+Sylvain : 5 VS Karolina : 4 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 29.
+Sylvain : 8 VS Karolina : Valet 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 30.
+Sylvain : 2 VS Karolina : 10 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 31.
+Sylvain : Dame VS Karolina : 10 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 32.
+Sylvain : 9 VS Karolina : 3 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 33.
+Sylvain : 10 VS Karolina : Roi 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 34.
+Sylvain : 8 VS Karolina : 3 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 35.
+Sylvain : 7 VS Karolina : As 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 36.
+Sylvain : 2 VS Karolina : 10 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 37.
+Sylvain : Valet VS Karolina : As 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 38.
+Sylvain : 9 VS Karolina : Roi 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 39.
+Sylvain : Dame VS Karolina : 6 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 40.
+Sylvain : 4 VS Karolina : 2 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 41.
+Sylvain : Dame VS Karolina : 8 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 42.
+Sylvain : 6 VS Karolina : 7 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 43.
+Sylvain : 7 VS Karolina : Roi 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 44.
+Sylvain : 5 VS Karolina : 9 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 45.
+Sylvain : Valet VS Karolina : 6 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 46.
+Sylvain : 5 VS Karolina : 2 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 47.
+Sylvain : As VS Karolina : As 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+Sylvain : 8 VS Karolina : 7 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 48.
+Sylvain : 3 VS Karolina : 4 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 49.
+Sylvain : Dame VS Karolina : 6 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 50.
+Sylvain : 5 VS Karolina : 4 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 51.
+Sylvain : 5 VS Karolina : Roi 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 52.
+Sylvain : 4 VS Karolina : 9 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 53.
+Sylvain : Dame VS Karolina : Valet 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 54.
+Sylvain : 10 VS Karolina : 8 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 55.
+Sylvain : 9 VS Karolina : 10 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 56.
+Sylvain : 3 VS Karolina : 2 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 57.
+Sylvain : 8 VS Karolina : Roi 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 58.
+Sylvain : 3 VS Karolina : 10 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 59.
+Sylvain : Dame VS Karolina : As 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 60.
+Sylvain : 6 VS Karolina : 7 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 61.
+Sylvain : 4 VS Karolina : 10 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 62.
+Sylvain : 2 VS Karolina : 2 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+Sylvain : 8 VS Karolina : Valet 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 63.
+Sylvain : Valet VS Karolina : Roi 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 64.
+Sylvain : 6 VS Karolina : 9 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 65.
+Sylvain : 5 VS Karolina : 7 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 66.
+Sylvain : 2 VS Karolina : 6 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 67.
+Sylvain : As VS Karolina : Roi 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 68.
+Sylvain : 3 VS Karolina : 7 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 69.
+Sylvain : 8 VS Karolina : 9 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 70.
+Sylvain : As VS Karolina : 5 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 71.
+Sylvain : Valet VS Karolina : 4 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 72.
+Sylvain : 7 VS Karolina : 3 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 73.
+Sylvain : Dame VS Karolina : Roi 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 74.
+Sylvain : 6 VS Karolina : 5 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 75.
+Sylvain : 5 VS Karolina : 9 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 76.
+Sylvain : 4 VS Karolina : 4 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+Sylvain : Valet VS Karolina : 9 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 77.
+Sylvain : 10 VS Karolina : Roi 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 78.
+Sylvain : 8 VS Karolina : 8 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+Sylvain : 2 VS Karolina : 3 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 79.
+Sylvain : As VS Karolina : As 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+Sylvain : As VS Karolina : 7 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 80.
+Sylvain : 5 VS Karolina : 6 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 81.
+Sylvain : Valet VS Karolina : 10 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 82.
+Sylvain : 4 VS Karolina : 4 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+Sylvain : 3 VS Karolina : As 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 83.
+Sylvain : 6 VS Karolina : Valet 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 84.
+Sylvain : 5 VS Karolina : 2 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 85.
+Sylvain : 4 VS Karolina : Dame 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 86.
+Sylvain : Dame VS Karolina : 8 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 87.
+Sylvain : Valet VS Karolina : Roi 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 88.
+Sylvain : 4 VS Karolina : Valet 
+Sylvain - 14 cartes 
+Karolina - 38 cartes 
+####################### 
+Round numéro => 89.
+Sylvain : 10 VS Karolina : 9 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 90.
+Sylvain : 9 VS Karolina : 6 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 91.
+Sylvain : As VS Karolina : 7 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 92.
+Sylvain : Roi VS Karolina : 5 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 93.
+Sylvain : As VS Karolina : 6 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 94.
+Sylvain : As VS Karolina : 2 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 95.
+Sylvain : Dame VS Karolina : 7 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 96.
+Sylvain : 7 VS Karolina : 3 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 97.
+Sylvain : Valet VS Karolina : 9 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 98.
+Sylvain : 10 VS Karolina : 8 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 99.
+Sylvain : 5 VS Karolina : Roi 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 100.
+Sylvain : 2 VS Karolina : Dame 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 101.
+Sylvain : Dame VS Karolina : 9 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 102.
+Sylvain : 8 VS Karolina : 5 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 103.
+Sylvain : 10 VS Karolina : Roi 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 104.
+Sylvain : 9 VS Karolina : 10 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 105.
+Sylvain : 9 VS Karolina : 8 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 106.
+Sylvain : 6 VS Karolina : 10 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 107.
+Sylvain : As VS Karolina : 3 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 108.
+Sylvain : 7 VS Karolina : 8 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 109.
+Sylvain : Roi VS Karolina : 3 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 110.
+Sylvain : 5 VS Karolina : 2 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 111.
+Sylvain : As VS Karolina : 6 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 112.
+Sylvain : 6 VS Karolina : 5 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 113.
+Sylvain : As VS Karolina : 4 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 114.
+Sylvain : 2 VS Karolina : 2 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+Sylvain : 7 VS Karolina : 4 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 115.
+Sylvain : 7 VS Karolina : 7 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+Sylvain : Valet VS Karolina : Valet 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+Sylvain : 10 VS Karolina : Dame 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 116.
+Sylvain : 8 VS Karolina : 4 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 117.
+Sylvain : Dame VS Karolina : Roi 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 118.
+Sylvain : 9 VS Karolina : Valet 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 119.
+Sylvain : 8 VS Karolina : Valet 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 120.
+Sylvain : 5 VS Karolina : 4 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 121.
+Sylvain : 9 VS Karolina : Roi 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 122.
+Sylvain : 8 VS Karolina : 5 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 123.
+Sylvain : As VS Karolina : Dame 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 124.
+Sylvain : 3 VS Karolina : 2 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 125.
+Sylvain : Roi VS Karolina : Roi 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+Sylvain : 5 VS Karolina : 10 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 126.
+Sylvain : 2 VS Karolina : 9 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 127.
+Sylvain : As VS Karolina : 10 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 128.
+Sylvain : 6 VS Karolina : 6 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+Sylvain : 5 VS Karolina : 7 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 129.
+Sylvain : As VS Karolina : 7 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 130.
+Sylvain : 4 VS Karolina : 3 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 131.
+Sylvain : 2 VS Karolina : Valet 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 132.
+Sylvain : Dame VS Karolina : 6 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 133.
+Sylvain : 7 VS Karolina : Dame 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 134.
+Sylvain : 2 VS Karolina : 7 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 135.
+Sylvain : As VS Karolina : 3 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 136.
+Sylvain : 4 VS Karolina : Valet 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 137.
+Sylvain : 8 VS Karolina : 9 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 138.
+Sylvain : 4 VS Karolina : 10 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 139.
+Sylvain : 5 VS Karolina : Roi 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 140.
+Sylvain : 4 VS Karolina : Dame 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 141.
+Sylvain : 8 VS Karolina : Valet 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 142.
+Sylvain : 5 VS Karolina : 9 
+Sylvain - 14 cartes 
+Karolina - 38 cartes 
+####################### 
+Round numéro => 143.
+Sylvain : As VS Karolina : Valet 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 144.
+Sylvain : Dame VS Karolina : 8 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 145.
+Sylvain : 3 VS Karolina : Roi 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 146.
+Sylvain : 2 VS Karolina : 9 
+Sylvain - 14 cartes 
+Karolina - 38 cartes 
+####################### 
+Round numéro => 147.
+Sylvain : As VS Karolina : Roi 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 148.
+Sylvain : 10 VS Karolina : 10 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+Sylvain : 7 VS Karolina : Roi 
+Sylvain - 12 cartes 
+Karolina - 40 cartes 
+####################### 
+Round numéro => 149.
+Sylvain : 4 VS Karolina : 3 
+Sylvain - 13 cartes 
+Karolina - 39 cartes 
+####################### 
+Round numéro => 150.
+Sylvain : 3 VS Karolina : 5 
+Sylvain - 12 cartes 
+Karolina - 40 cartes 
+####################### 
+Round numéro => 151.
+Sylvain : Dame VS Karolina : 9 
+Sylvain - 13 cartes 
+Karolina - 39 cartes 
+####################### 
+Round numéro => 152.
+Sylvain : 6 VS Karolina : 2 
+Sylvain - 14 cartes 
+Karolina - 38 cartes 
+####################### 
+Round numéro => 153.
+Sylvain : As VS Karolina : 6 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 154.
+Sylvain : 3 VS Karolina : 8 
+Sylvain - 14 cartes 
+Karolina - 38 cartes 
+####################### 
+Round numéro => 155.
+Sylvain : As VS Karolina : 7 
+Sylvain - 15 cartes 
+Karolina - 37 cartes 
+####################### 
+Round numéro => 156.
+Sylvain : Valet VS Karolina : 6 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 157.
+Sylvain : Dame VS Karolina : 6 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 158.
+Sylvain : 8 VS Karolina : 5 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 159.
+Sylvain : As VS Karolina : Valet 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 160.
+Sylvain : Roi VS Karolina : 2 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 161.
+Sylvain : 4 VS Karolina : Dame 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 162.
+Sylvain : 3 VS Karolina : 7 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 163.
+Sylvain : Dame VS Karolina : 7 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 164.
+Sylvain : 9 VS Karolina : 2 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 165.
+Sylvain : 6 VS Karolina : Valet 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 166.
+Sylvain : 2 VS Karolina : 4 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 167.
+Sylvain : As VS Karolina : 9 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 168.
+Sylvain : 6 VS Karolina : 8 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 169.
+Sylvain : As VS Karolina : 10 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 170.
+Sylvain : 7 VS Karolina : 4 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 171.
+Sylvain : Valet VS Karolina : Roi 
+Sylvain - 19 cartes 
+Karolina - 33 cartes 
+####################### 
+Round numéro => 172.
+Sylvain : 6 VS Karolina : 5 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 173.
+Sylvain : Dame VS Karolina : Dame 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+Sylvain : 8 VS Karolina : Valet 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 174.
+Sylvain : 5 VS Karolina : 8 
+Sylvain - 16 cartes 
+Karolina - 36 cartes 
+####################### 
+Round numéro => 175.
+Sylvain : As VS Karolina : 9 
+Sylvain - 17 cartes 
+Karolina - 35 cartes 
+####################### 
+Round numéro => 176.
+Sylvain : Valet VS Karolina : 5 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+####################### 
+Round numéro => 177.
+Sylvain : Roi VS Karolina : Roi 
+Sylvain - 18 cartes 
+Karolina - 34 cartes 
+Sylvain : Dame VS Karolina : 9 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 178.
+Sylvain : 7 VS Karolina : 2 
+Sylvain - 22 cartes 
+Karolina - 30 cartes 
+####################### 
+Round numéro => 179.
+Sylvain : 9 VS Karolina : 10 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 180.
+Sylvain : 2 VS Karolina : 10 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 181.
+Sylvain : As VS Karolina : Roi 
+Sylvain - 21 cartes 
+Karolina - 31 cartes 
+####################### 
+Round numéro => 182.
+Sylvain : 9 VS Karolina : 10 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+####################### 
+Round numéro => 183.
+Sylvain : As VS Karolina : As 
+Sylvain - 20 cartes 
+Karolina - 32 cartes 
+Sylvain : 7 VS Karolina : 5 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 184.
+Sylvain : 4 VS Karolina : 3 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 185.
+Sylvain : 6 VS Karolina : 8 
+Sylvain - 23 cartes 
+Karolina - 29 cartes 
+####################### 
+Round numéro => 186.
+Sylvain : 5 VS Karolina : 3 
+Sylvain - 24 cartes 
+Karolina - 28 cartes 
+####################### 
+Round numéro => 187.
+Sylvain : As VS Karolina : Dame 
+Sylvain - 25 cartes 
+Karolina - 27 cartes 
+####################### 
+Round numéro => 188.
+Sylvain : 9 VS Karolina : 4 
+Sylvain - 26 cartes 
+Karolina - 26 cartes 
+####################### 
+Round numéro => 189.
+Sylvain : Valet VS Karolina : 7 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 190.
+Sylvain : 5 VS Karolina : 3 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 191.
+Sylvain : Roi VS Karolina : Valet 
+Sylvain - 29 cartes 
+Karolina - 23 cartes 
+####################### 
+Round numéro => 192.
+Sylvain : 2 VS Karolina : 6 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 193.
+Sylvain : Dame VS Karolina : 4 
+Sylvain - 29 cartes 
+Karolina - 23 cartes 
+####################### 
+Round numéro => 194.
+Sylvain : Roi VS Karolina : 2 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 195.
+Sylvain : 3 VS Karolina : 8 
+Sylvain - 29 cartes 
+Karolina - 23 cartes 
+####################### 
+Round numéro => 196.
+Sylvain : 9 VS Karolina : 6 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 197.
+Sylvain : 7 VS Karolina : Roi 
+Sylvain - 29 cartes 
+Karolina - 23 cartes 
+####################### 
+Round numéro => 198.
+Sylvain : 2 VS Karolina : Valet 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 199.
+Sylvain : As VS Karolina : Dame 
+Sylvain - 29 cartes 
+Karolina - 23 cartes 
+####################### 
+Round numéro => 200.
+Sylvain : Roi VS Karolina : 4 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 201.
+Sylvain : As VS Karolina : Valet 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+####################### 
+Round numéro => 202.
+Sylvain : 10 VS Karolina : Dame 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 203.
+Sylvain : 7 VS Karolina : 6 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+####################### 
+Round numéro => 204.
+Sylvain : As VS Karolina : 8 
+Sylvain - 32 cartes 
+Karolina - 20 cartes 
+####################### 
+Round numéro => 205.
+Sylvain : 7 VS Karolina : 8 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+####################### 
+Round numéro => 206.
+Sylvain : 5 VS Karolina : 5 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+Sylvain : 3 VS Karolina : 9 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 207.
+Sylvain : 5 VS Karolina : 10 
+Sylvain - 27 cartes 
+Karolina - 25 cartes 
+####################### 
+Round numéro => 208.
+Sylvain : 3 VS Karolina : 2 
+Sylvain - 28 cartes 
+Karolina - 24 cartes 
+####################### 
+Round numéro => 209.
+Sylvain : As VS Karolina : 10 
+Sylvain - 29 cartes 
+Karolina - 23 cartes 
+####################### 
+Round numéro => 210.
+Sylvain : Dame VS Karolina : 9 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 211.
+Sylvain : 9 VS Karolina : 8 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+####################### 
+Round numéro => 212.
+Sylvain : 4 VS Karolina : 6 
+Sylvain - 30 cartes 
+Karolina - 22 cartes 
+####################### 
+Round numéro => 213.
+Sylvain : Valet VS Karolina : 6 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+####################### 
+Round numéro => 214.
+Sylvain : 7 VS Karolina : 2 
+Sylvain - 32 cartes 
+Karolina - 20 cartes 
+####################### 
+Round numéro => 215.
+Sylvain : 5 VS Karolina : 8 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+####################### 
+Round numéro => 216.
+Sylvain : 3 VS Karolina : 3 
+Sylvain - 31 cartes 
+Karolina - 21 cartes 
+Sylvain : Valet VS Karolina : 7 
+Sylvain - 34 cartes 
+Karolina - 18 cartes 
+####################### 
+Round numéro => 217.
+Sylvain : Dame VS Karolina : Valet 
+Sylvain - 35 cartes 
+Karolina - 17 cartes 
+####################### 
+Round numéro => 218.
+Sylvain : 4 VS Karolina : 2 
+Sylvain - 36 cartes 
+Karolina - 16 cartes 
+####################### 
+Round numéro => 219.
+Sylvain : Roi VS Karolina : Dame 
+Sylvain - 37 cartes 
+Karolina - 15 cartes 
+####################### 
+Round numéro => 220.
+Sylvain : 2 VS Karolina : 10 
+Sylvain - 36 cartes 
+Karolina - 16 cartes 
+####################### 
+Round numéro => 221.
+Sylvain : 9 VS Karolina : 8 
+Sylvain - 37 cartes 
+Karolina - 15 cartes 
+####################### 
+Round numéro => 222.
+Sylvain : 6 VS Karolina : 7 
+Sylvain - 36 cartes 
+Karolina - 16 cartes 
+####################### 
+Round numéro => 223.
+Sylvain : As VS Karolina : 5 
+Sylvain - 37 cartes 
+Karolina - 15 cartes 
+####################### 
+Round numéro => 224.
+Sylvain : Dame VS Karolina : 10 
+Sylvain - 38 cartes 
+Karolina - 14 cartes 
+####################### 
+Round numéro => 225.
+Sylvain : Roi VS Karolina : 9 
+Sylvain - 39 cartes 
+Karolina - 13 cartes 
+####################### 
+Round numéro => 226.
+Sylvain : 4 VS Karolina : 5 
+Sylvain - 38 cartes 
+Karolina - 14 cartes 
+####################### 
+Round numéro => 227.
+Sylvain : As VS Karolina : 4 
+Sylvain - 39 cartes 
+Karolina - 13 cartes 
+####################### 
+Round numéro => 228.
+Sylvain : Valet VS Karolina : 3 
+Sylvain - 40 cartes 
+Karolina - 12 cartes 
+####################### 
+Round numéro => 229.
+Sylvain : 7 VS Karolina : 10 
+Sylvain - 39 cartes 
+Karolina - 13 cartes 
+####################### 
+Round numéro => 230.
+Sylvain : 6 VS Karolina : 5 
+Sylvain - 40 cartes 
+Karolina - 12 cartes 
+####################### 
+Round numéro => 231.
+Sylvain : As VS Karolina : 6 
+Sylvain - 41 cartes 
+Karolina - 11 cartes 
+####################### 
+Round numéro => 232.
+Sylvain : 8 VS Karolina : 4 
+Sylvain - 42 cartes 
+Karolina - 10 cartes 
+####################### 
+Round numéro => 233.
+Sylvain : 3 VS Karolina : 8 
+Sylvain - 41 cartes 
+Karolina - 11 cartes 
+####################### 
+Round numéro => 234.
+Sylvain : 2 VS Karolina : 5 
+Sylvain - 40 cartes 
+Karolina - 12 cartes 
+####################### 
+Round numéro => 235.
+Sylvain : As VS Karolina : 10 
+Sylvain - 41 cartes 
+Karolina - 11 cartes 
+####################### 
+Round numéro => 236.
+Sylvain : 10 VS Karolina : 2 
+Sylvain - 42 cartes 
+Karolina - 10 cartes 
+####################### 
+Round numéro => 237.
+Sylvain : Dame VS Karolina : 7 
+Sylvain - 43 cartes 
+Karolina - 9 cartes 
+####################### 
+Round numéro => 238.
+Sylvain : 9 VS Karolina : 6 
+Sylvain - 44 cartes 
+Karolina - 8 cartes 
+####################### 
+Round numéro => 239.
+Sylvain : 9 VS Karolina : 5 
+Sylvain - 45 cartes 
+Karolina - 7 cartes 
+####################### 
+Round numéro => 240.
+Sylvain : 8 VS Karolina : 4 
+Sylvain - 46 cartes 
+Karolina - 6 cartes 
+####################### 
+Round numéro => 241.
+Sylvain : Valet VS Karolina : 10 
+Sylvain - 47 cartes 
+Karolina - 5 cartes 
+####################### 
+Round numéro => 242.
+Sylvain : 6 VS Karolina : 7 
+Sylvain - 46 cartes 
+Karolina - 6 cartes 
+####################### 
+Round numéro => 243.
+Sylvain : 7 VS Karolina : 8 
+Sylvain - 45 cartes 
+Karolina - 7 cartes 
+####################### 
+Round numéro => 244.
+Sylvain : 2 VS Karolina : 3 
+Sylvain - 44 cartes 
+Karolina - 8 cartes 
+####################### 
+Round numéro => 245.
+Sylvain : 3 VS Karolina : 5 
+Sylvain - 43 cartes 
+Karolina - 9 cartes 
+####################### 
+Round numéro => 246.
+Sylvain : Roi VS Karolina : 2 
+Sylvain - 44 cartes 
+Karolina - 8 cartes 
+####################### 
+Round numéro => 247.
+Sylvain : Valet VS Karolina : 7 
+Sylvain - 45 cartes 
+Karolina - 7 cartes 
+####################### 
+Round numéro => 248.
+Sylvain : 3 VS Karolina : 6 
+Sylvain - 44 cartes 
+Karolina - 8 cartes 
+####################### 
+Round numéro => 249.
+Sylvain : Roi VS Karolina : 8 
+Sylvain - 45 cartes 
+Karolina - 7 cartes 
+####################### 
+Round numéro => 250.
+Sylvain : 7 VS Karolina : 7 
+Sylvain - 45 cartes 
+Karolina - 7 cartes 
+Sylvain : Valet VS Karolina : 2 
+Sylvain - 48 cartes 
+Karolina - 4 cartes 
+####################### 
+Round numéro => 251.
+Sylvain : 4 VS Karolina : 5 
+Sylvain - 47 cartes 
+Karolina - 5 cartes 
+####################### 
+Round numéro => 252.
+Sylvain : 2 VS Karolina : 3 
+Sylvain - 46 cartes 
+Karolina - 6 cartes 
+####################### 
+Round numéro => 253.
+Sylvain : Roi VS Karolina : 6 
+Sylvain - 47 cartes 
+Karolina - 5 cartes 
+####################### 
+Round numéro => 254.
+Sylvain : Dame VS Karolina : 3 
+Sylvain - 48 cartes 
+Karolina - 4 cartes 
+####################### 
+Round numéro => 255.
+Sylvain : 9 VS Karolina : 5 
+Sylvain - 49 cartes 
+Karolina - 3 cartes 
+####################### 
+Round numéro => 256.
+Sylvain : 8 VS Karolina : 4 
+Sylvain - 50 cartes 
+Karolina - 2 cartes 
+####################### 
+Round numéro => 257.
+Sylvain : As VS Karolina : 3 
+Sylvain - 51 cartes 
+Karolina - 1 cartes 
+####################### 
+Round numéro => 258.
+Sylvain : 5 VS Karolina : 2 
+Sylvain - 52 cartes 
+Karolina - 0 cartes 
+Victoire de Sylvain !
